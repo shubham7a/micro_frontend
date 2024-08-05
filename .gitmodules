@@ -1,0 +1,6 @@
+[submodule "main-app"]
+	path = main-app
+	url = https://github.com/shubham7a/main-app.git
+[submodule "shop-app"]
+	path = shop-app
+	url = https://github.com/shubham7a/shop-app.git
